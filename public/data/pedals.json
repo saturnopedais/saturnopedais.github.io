@@ -1,6 +1,13 @@
 [
     {
         "Brand":"Saturno Pedais",
+        "Name":"Titan",
+        "Width":20.47,
+        "Height":2.36,
+        "Image":"saturno-titan.png"
+    },
+    {
+        "Brand":"Saturno Pedais",
         "Name":"Supernova",
         "Width":11.81,
         "Height":2.36,

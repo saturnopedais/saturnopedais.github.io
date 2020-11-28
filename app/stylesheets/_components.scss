@@ -91,9 +91,9 @@ $body-color-dark: 	#ccc;
 	@media (min-width: 769px) {
 		//@include flex-direction(row);
 	}
-	&.is-slid {
-		//transform: translateX(290px);
-	}
+	// &.is-slid {
+	// 	//transform: translateX(290px);
+	// }
 	.darkmode & {
 		border-color: rgba(white, .1);
 	}
@@ -195,7 +195,7 @@ $body-color-dark: 	#ccc;
 		.is-slid & {
 			opacity: 1;
 			pointer-events: all;
-			touch-events: all;
+			// touch-events: all;
 			.sidebar__inner {
 				top: 30%;
 

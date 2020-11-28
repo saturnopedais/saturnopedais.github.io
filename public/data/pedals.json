@@ -10364,5 +10364,61 @@
         "Width":7,
         "Height":4.96,
         "Image":"line6-hxstomp-red.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Agro",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-agro.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Filter Twin",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-filtertwin.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Fuzzistor",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-fuzzistor.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Grape Phaser",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-grapephaser.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Chorusaurus",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-chorusaurus.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"TLC Compressor",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-tlccompressor.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Octamizer",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-octamizer.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Tone Hammer",
+        "Width":4.33,
+        "Height":5.24,
+        "Image":"aguilar-tonehammer.png"
     }
 ]

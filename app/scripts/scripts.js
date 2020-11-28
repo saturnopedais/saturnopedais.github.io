@@ -191,8 +191,8 @@ $(document).ready(function(){
 	$('body').on('click', '#add-custom-pedal .btn', function(event){
 		var serial  	 = GenRandom.Job();
 		var multiplier 	 = $('#canvas-scale').val();
-		var width   	 = $("#add-custom-pedal .custom-width").val();
-		var height  	 = $("#add-custom-pedal .custom-height").val();
+		var width   	 = $("#add-custom-pedal .custom-width").val() / 2.54;
+		var height  	 = $("#add-custom-pedal .custom-height").val() / 2.54;
 		var scaledWidth  = width * multiplier;
 		var scaledHeight = height * multiplier;
 		var dims  	     = width + '" x ' + height + '"';
@@ -238,8 +238,8 @@ $(document).ready(function(){
 	$('body').on('click', '#add-custom-pedalboard .btn', function(event){
 		var serial  	= GenRandom.Job();
 		var multiplier 	 = $('#canvas-scale').val();
-		var width   	 = $("#add-custom-pedalboard .custom-width").val();
-		var height  	 = $("#add-custom-pedalboard .custom-height").val();
+		var width   	 = $("#add-custom-pedalboard .custom-width").val() / 2.54;
+		var height  	 = $("#add-custom-pedalboard .custom-height").val() / 2.54;
 		var scaledWidth  = width * multiplier;
 		var scaledHeight = height * multiplier;
 

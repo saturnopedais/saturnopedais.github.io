@@ -9,7 +9,7 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var watch = require('gulp-watch');
 var plumber = require('gulp-plumber');
-var minifycss = require('gulp-minify-css');
+var cleanCSS = require('gulp-clean-css');
 var rename = require('gulp-rename');
 var gzip = require('gulp-gzip');
 var livereload = require('gulp-livereload');
@@ -68,7 +68,7 @@ gulp.task('styles', function () {
     .pipe(sass())
         .pipe(gulp.dest('public/stylesheets'))
         .pipe(rename({suffix: '.min'}))
-        .pipe(minifycss())
+        .pipe(cleanCSS())
         .pipe(gulp.dest('public/stylesheets'))
         .pipe(gzip(gzip_options))
         .pipe(gulp.dest('public/stylesheets'))
@@ -118,8 +118,8 @@ gulp.task('process-images', function() {
 /* Watch Files For Changes */
 gulp.task('watch', function() {
     livereload.listen();
-    gulp.watch('app/stylesheets/**', ['styles']);
-	gulp.watch('app/scripts/**', ['scripts']);
+    gulp.watch('app/stylesheets/**', gulp.series('styles'));
+	gulp.watch('app/scripts/**', gulp.series('scripts'));
     gulp.watch('*.php').on('change', livereload.changed);
     gulp.watch('includes/**').on('change', livereload.changed);
     gulp.watch('*.html').on('change', livereload.changed);
@@ -128,16 +128,18 @@ gulp.task('watch', function() {
 gulp.task('watch-all', function() {
     livereload.listen();
     //gulp.watch(['app/images/pedals/*.png','!app/images/pedals/*_tmp*.*'], ['images']);
-    gulp.watch(['app/images/pedals-new/**/*.png','!app/images/pedals-new/**/*_tmp*.*'], ['process-images']);
-    gulp.watch('app/stylesheets/**', ['styles']);
-	gulp.watch('app/scripts/**', ['scripts']);
+    gulp.watch(['app/images/pedals-new/**/*.png','!app/images/pedals-new/**/*_tmp*.*'], gulp.series(['process-images']));
+    gulp.watch('app/stylesheets/**', gulp.series(['styles']));
+	gulp.watch('app/scripts/**', gulp.series(['scripts']));
+
+
     gulp.watch('*.php').on('change', livereload.changed);
     gulp.watch('includes/**').on('change', livereload.changed);
     gulp.watch('*.html').on('change', livereload.changed);
 });
 
-gulp.task('default', ['styles', 'scripts', 'watch']);
+gulp.task('default', gulp.series(['styles', 'scripts', 'watch']));
 
-gulp.task('all', ['styles', 'scripts', 'process-images', 'watch-all']);
+gulp.task('all', gulp.series(['styles', 'scripts', 'process-images', 'watch-all']));
 
-gulp.task('build', ['styles', 'scripts']);
+gulp.task('build', gulp.series(['styles', 'scripts']));

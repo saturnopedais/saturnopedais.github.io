@@ -11,7 +11,24 @@ $(document).ready(function(){
 	$('.pedal-list').select2({
 		placeholder: "Select a pedal",
 		width: 'style',
+		// templateResult: function (pedal) {
+		// 	console.log(pedal.element?.id, pedal.text, 456);
+		// 	var $span = $("<span>" + pedal.text + "</span>");
+		// 	if(pedal.element.id) {
+		// 		var $span = $("<span><img src='" + pedalImagePath + pedal.element.id + "' style='max-width: 10px;max-height: 10px'/> " + pedal.text + "</span>");
+		// 	}
+		// },
+		// templateSelection: function (pedal) {
+		// 	console.log(pedal.element?.id, pedal.text, 123);
+		// 	var $span = $("<span>" + pedal.text + "</span>");
+		// 	if(pedal.element.id) {
+		// 		var $span = $("<span><img src='" + pedalImagePath + pedal.element.id + "' style='max-width: 10px;max-height: 10px'/> " + pedal.text + "</span>");
+		// 	}
+		// 	return $span;
+		// }
 	});
+
+	
 
 	$('.pedal-list').on('select2:select', function (e) {
 		$("#add-selected-pedal").click();
@@ -504,9 +521,10 @@ window.GetPedalData = function(){
 };
 
 window.RenderPedals = function(pedals) {
-    var { Type, Brand, Name, Width, Height, Image } = pedals;
+	var { Type, Brand, Name, Width, Height, Image } = pedals;
     var option = $("<option>", {
-        text: `${Brand} ${Name}`,
+		text: `${Brand} ${Name}`,
+		id: `${Image}`,
         // id: `${Name.toLowerCase().replace(/(\s+)|(['"])/g, (m, p1, p2) => p1 ? "-" : "")}`,
         data: {
             width: Width,
@@ -636,10 +654,10 @@ $('body').on('click', '.item', function(e){
       +pedalName
       +'<br><span class="panel__dimensions">('+width+' x '+height+')</span>\
     </div>\
-		<a href="#rotate" class="panel__action">Rotate <i>R</i></a>\
-		<a href="#front" class="panel__action">Move Front <i>]</i></a>\
-		<a href="#back" class="panel__action">Move Back <i>[</i></a>\
-		<a href="#delete" class="panel__action">Delete <i>D</i></a>\
+		<a href="#rotate" class="panel__action">Girar <i>R</i></a>\
+		<a href="#front" class="panel__action">Mover pra frente <i>]</i></a>\
+		<a href="#back" class="panel__action">Mover pra trás <i>[</i></a>\
+		<a href="#delete" class="panel__action">Deletar <i>D</i></a>\
 	</div>'
 
 	// reset stuff

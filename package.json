@@ -1,10 +1,9 @@
 {
-  "name": "pedal-playground",
+  "name": "saturno-pedalboard-planner",
   "version": "1.0.0",
-  "description": "A site to help you arrange pedals",
+  "description": "A site to help you arrange your pedalboard",
   "main": "gulpfile.js",
   "dependencies": {
-    "bower": "^1.8.8",
     "gulp": "^3.9.0",
     "gulp-cached": "^1.1.1",
     "gulp-concat": "^2.6.1",
@@ -18,7 +17,20 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.0.4",
     "gulp-util": "^3.0.6",
-    "gulp-watch": "^4.3.5"
+    "gulp-watch": "^4.3.5",
+    "@bower_components/bootstrap-colorpicker": "itsjavi/bootstrap-colorpicker#^2.5.1",
+    "@bower_components/bootstrap-sass": "twbs/bootstrap-sass#^3.3.7",
+    "@bower_components/chosen": "harvesthq/bower-chosen#^1.6.2",
+    "@bower_components/draggabilly": "desandro/draggabilly#^2.1.1",
+    "@bower_components/ev-emitter": "metafizzy/ev-emitter#^1.0.1",
+    "@bower_components/get-size": "desandro/get-size#^2.0.2",
+    "@bower_components/jquery": "jquery/jquery-dist#3.1.1",
+    "@bower_components/jquery-zoom": "jackmoore/zoom#^1.7.18",
+    "@bower_components/modernizer": "askhogan/Modernizr#^2.8.2",
+    "@bower_components/sass-flex-mixin": "mastastealth/sass-flex-mixin#^1.0.3",
+    "@bower_components/select2": "ivaynberg/select2#4.0.3",
+    "@bower_components/unidragger": "metafizzy/unidragger#^2.3.0",
+    "@bower_components/unipointer": "metafizzy/unipointer#^2.3.0"
   },
   "devDependencies": {
     "gulp-responsive": "^2.9.0",
@@ -26,7 +38,8 @@
   },
   "scripts": {
     "serve": "http-server ./ -o",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node -e \"try { require('fs').symlinkSync(require('path').resolve('node_modules/@bower_components'), 'bower_components', 'junction') } catch (e) { }\""
   },
   "repository": {
     "type": "git",
@@ -43,5 +56,8 @@
   "bugs": {
     "url": "https://github.com/tehtrav/pedal-playground/issues"
   },
-  "homepage": "https://github.com/tehtrav/pedal-playground#readme"
+  "homepage": "https://github.com/tehtrav/pedal-playground#readme",
+  "engines": {
+    "yarn": ">= 1.0.0"
+  }
 }

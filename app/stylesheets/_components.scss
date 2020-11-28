@@ -7,13 +7,17 @@ $body-color-dark: 	#ccc;
 
 
 .site-header {
-	background: #FFF;
+	background: #322D41;
+	color: #f8f8f8;
 	padding: 12px;
 	position: relative;
 	h1 {
-		font-size: 22px;
+		font-size: 15px;
 		text-transform: uppercase;
 		margin: 0;
+		display: inline-flex;
+		vertical-align: top;
+		margin-top: 8px;
 	}
 	.donate {
 		position: absolute;
@@ -203,7 +207,8 @@ $body-color-dark: 	#ccc;
 		max-width: 290px;
 		box-shadow: 0 1px 5px rgba(black, .16);
 		padding: 20px;
-		background: #FFF;
+		background: #C9CC33;
+		color: #322D41;
 		border-right: $border;
 		.darkmode & {
 			background-color: $panel-bg-dark;
@@ -455,11 +460,14 @@ $body-color-dark: 	#ccc;
 
 #custom-items {
 	.nav-tabs {
-		margin: 14px 0;
 		li a {
 			padding: 8px 13px;
 			font-size: 12px;
 		}
+	}
+	.tab-content {
+		padding: 10px;
+		background: #fff;
 	}
 	.form-element {
 		margin-bottom: 15px;

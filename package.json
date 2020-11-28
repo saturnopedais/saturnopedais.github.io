@@ -59,7 +59,7 @@
   "bugs": {
     "url": "https://github.com/saturnopedais/saturnopedais.github.io/issues"
   },
-  "homepage": "https://<github-username>.github.io/<project-repo>",
+  "homepage": "https://saturnopedais.github.io/",
   "engines": {
     "yarn": ">= 1.0.0"
   }

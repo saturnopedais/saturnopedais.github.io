@@ -1,6 +1,13 @@
 [
     {
         "Brand":"Saturno Pedais",
+        "Name":"Titan",
+        "Width":20.47,
+        "Height":2.36,
+        "Image":"saturno-titan.png"
+    },
+    {
+        "Brand":"Saturno Pedais",
         "Name":"Supernova",
         "Width":11.81,
         "Height":2.36,
@@ -10154,5 +10161,264 @@
         "Width": 2.75,
         "Height": 4.80,
         "Image": "harley-benton-powerplant-tuner.png"
+    },
+    {
+        "Brand":"Wintter Labs",
+        "Name":"Picumã",
+        "Width":2.44,
+        "Height":4.72,
+        "Image":"wintterlabs-picuma.png"
+    },
+    {
+        "Brand":"Tone Ink",
+        "Name":"Red Britton",
+        "Width":2.64,
+        "Height":4.72,
+        "Image":"toneink-redbritton.png"
+    },
+    {
+        "Brand":"Tone Ink",
+        "Name":"Cold Shot",
+        "Width":2.64,
+        "Height":4.72,
+        "Image":"toneink-coldshot.png"
+    },
+    {
+        "Brand":"Tone Ink",
+        "Name":"Raven",
+        "Width":2.64,
+        "Height":4.72,
+        "Image":"toneink-raven.png"
+    },
+    {
+        "Brand":"Deep Trip",
+        "Name":"BOG",
+        "Width":4.33,
+        "Height":5.51,
+        "Image":"deeptrip-bog.png"
+    },
+    {
+        "Brand":"Deep Trip",
+        "Name":"Hell Bender",
+        "Width":4.33,
+        "Height":5.51,
+        "Image":"deeptrip-hellbender.png"
+    },
+    {
+        "Brand":"Deep Trip",
+        "Name":"Kryptone",
+        "Width":4.33,
+        "Height":5.51,
+        "Image":"deeptrip-kryptone.png"
+    },
+    {
+        "Brand":"Deep Trip",
+        "Name":"Muff a Saur",
+        "Width":4.33,
+        "Height":5.51,
+        "Image":"deeptrip-muffasaur.png"
+    },
+    {
+        "Brand":"Deep Trip",
+        "Name":"Page Bender",
+        "Width":4.33,
+        "Height":5.51,
+        "Image":"deeptrip-pagebender.png"
+    },
+    {
+        "Brand":"Deep Trip",
+        "Name":"Stormy Monday",
+        "Width":4.33,
+        "Height":5.51,
+        "Image":"deeptrip-stormymonday.png"
+    },
+    {
+        "Brand":"VTR",
+        "Name":"Helios Overdrive v1",
+        "Width":2.76,
+        "Height":4.72,
+        "Image":"vtr-helios-v1.png"
+    },
+    {
+        "Brand":"VTR",
+        "Name":"Helios Overdrive v2",
+        "Width":2.76,
+        "Height":4.84,
+        "Image":"vtr-helios-v2.png"
+    },
+    {
+        "Brand":"VTR",
+        "Name":"Dream Machine v1",
+        "Width":2.56,
+        "Height":4.84,
+        "Image":"vtr-dreammachine-v1.png"
+    },
+    {
+        "Brand":"VTR",
+        "Name":"Dream Machine v2",
+        "Width":2.76,
+        "Height":4.84,
+        "Image":"vtr-dreammachine-v2.png"
+    },
+    {
+        "Brand":"VTR",
+        "Name":"Indigo Reverb v1",
+        "Width":2.56,
+        "Height":4.84,
+        "Image":"vtr-indigo-v1.png"
+    },
+    {
+        "Brand":"VTR",
+        "Name":"Indigo Reverb v2",
+        "Width":2.76,
+        "Height":4.84,
+        "Image":"vtr-indigo-v2.png"
+    },
+    {
+        "Brand":"Cachalote",
+        "Name":"Formiga B. Drive",
+        "Width":2.64,
+        "Height":4.76,
+        "Image":"cachalote-formiga.png"
+    },
+    {
+        "Brand":"Cachalote",
+        "Name":"214 Fuzz",
+        "Width":2.64,
+        "Height":4.76,
+        "Image":"cachalote-214.png"
+    },
+    {
+        "Brand":"Cachalote",
+        "Name":"Origami Filtro",
+        "Width":4.76,
+        "Height":5.71,
+        "Image":"cachalote-origami.png"
+    },
+    {
+        "Brand":"Cachalote",
+        "Name":"Lisa Tap Delay",
+        "Width":5.71,
+        "Height":4.76,
+        "Image":"cachalote-lisa.png"
+    },
+    {
+        "Brand":"Zoom",
+        "Name":"G3n",
+        "Width":9.2,
+        "Height":7.1,
+        "Image":"zoom-g3n.png"
+    },
+    {
+        "Brand":"Zoom",
+        "Name":"G3xn",
+        "Width":12.5,
+        "Height":7.1,
+        "Image":"zoom-g3xn.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
+        "Name":"Bass Micro Synth",
+        "Width":5.75,
+        "Height":4.76,
+        "Image":"ehx-bassmicrosynth.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
+        "Name":"Micro Synth",
+        "Width":5.75,
+        "Height":4.76,
+        "Image":"ehx-microsynth.png"
+    },
+    {
+        "Brand":"Ibanez",
+        "Name":"TS9 Tube Screamer Gold",
+        "Width":3,
+        "Height":4.9,
+        "Image":"ibanez-ts9gold.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Cosmic Gray",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-gray.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Stormtrooper White",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-white.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Limited Ed. Blue",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-blue.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Limited Ed. Red",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-red.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Agro",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-agro.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Filter Twin",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-filtertwin.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Fuzzistor",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-fuzzistor.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Grape Phaser",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-grapephaser.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Chorusaurus",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-chorusaurus.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"TLC Compressor",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-tlccompressor.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Octamizer",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-octamizer.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Tone Hammer",
+        "Width":4.33,
+        "Height":5.24,
+        "Image":"aguilar-tonehammer.png"
     }
 ]

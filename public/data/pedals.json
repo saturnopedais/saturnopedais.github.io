@@ -10315,5 +10315,19 @@
         "Width":12.5,
         "Height":7.1,
         "Image":"zoom-g3xn.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
+        "Name":"Bass Micro Synth",
+        "Width":5.75,
+        "Height":4.76,
+        "Image":"ehx-bassmicrosynth.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
+        "Name":"Micro Synth",
+        "Width":5.75,
+        "Height":4.76,
+        "Image":"ehx-microsynth.png"
     }
 ]

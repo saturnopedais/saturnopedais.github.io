@@ -10315,5 +10315,110 @@
         "Width":12.5,
         "Height":7.1,
         "Image":"zoom-g3xn.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
+        "Name":"Bass Micro Synth",
+        "Width":5.75,
+        "Height":4.76,
+        "Image":"ehx-bassmicrosynth.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
+        "Name":"Micro Synth",
+        "Width":5.75,
+        "Height":4.76,
+        "Image":"ehx-microsynth.png"
+    },
+    {
+        "Brand":"Ibanez",
+        "Name":"TS9 Tube Screamer Gold",
+        "Width":3,
+        "Height":4.9,
+        "Image":"ibanez-ts9gold.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Cosmic Gray",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-gray.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Stormtrooper White",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-white.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Limited Ed. Blue",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-blue.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Limited Ed. Red",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-red.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Agro",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-agro.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Filter Twin",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-filtertwin.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Fuzzistor",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-fuzzistor.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Grape Phaser",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-grapephaser.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Chorusaurus",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-chorusaurus.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"TLC Compressor",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-tlccompressor.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Octamizer",
+        "Width":2.68,
+        "Height":5.24,
+        "Image":"aguilar-octamizer.png"
+    },
+    {
+        "Brand":"Aguilar",
+        "Name":"Tone Hammer",
+        "Width":4.33,
+        "Height":5.24,
+        "Image":"aguilar-tonehammer.png"
     }
 ]

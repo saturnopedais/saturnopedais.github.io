@@ -139,3 +139,5 @@ gulp.task('watch-all', function() {
 gulp.task('default', ['styles', 'scripts', 'watch']);
 
 gulp.task('all', ['styles', 'scripts', 'process-images', 'watch-all']);
+
+gulp.task('build', ['styles', 'scripts']);

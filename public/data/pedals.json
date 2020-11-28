@@ -10420,5 +10420,12 @@
         "Width":4.33,
         "Height":5.24,
         "Image":"aguilar-tonehammer.png"
+    },
+    {
+        "Brand":"Fire Custom Shop",
+        "Name":"Fire Volume",
+        "Width":2.75,
+        "Height":7.02,
+        "Image":"fire-volume.png"
     }
 ]

@@ -10329,5 +10329,40 @@
         "Width":5.75,
         "Height":4.76,
         "Image":"ehx-microsynth.png"
+    },
+    {
+        "Brand":"Ibanez",
+        "Name":"TS9 Tube Screamer Gold",
+        "Width":3,
+        "Height":4.9,
+        "Image":"ibanez-ts9gold.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Cosmic Gray",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-gray.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Stormtrooper White",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-white.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Limited Ed. Blue",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-blue.png"
+    },
+    {
+        "Brand":"Line6",
+        "Name":"Hx Stomp Limited Ed. Red",
+        "Width":7,
+        "Height":4.96,
+        "Image":"line6-hxstomp-red.png"
     }
 ]

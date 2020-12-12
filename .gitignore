@@ -1,11 +1,12 @@
 .DS_Store
 Thumbs.db
-#bower_components/
-#node_modules/
-#workfiles/
-#app/scss/.sass-cache/*
-#pedals alias
-#pedals-new alias
+bower_components/
+bower_components
+node_modules/
+workfiles/
+app/scss/.sass-cache/*
+pedals alias
+pedals-new alias
 config.codekit3
 0_pre
 1_post

@@ -10420,5 +10420,33 @@
         "Width":4.33,
         "Height":5.24,
         "Image":"aguilar-tonehammer.png"
+    },
+    {
+        "Brand":"Wampler",
+        "Name":"Terraform",
+        "Width":4.76,
+        "Height":3.74,
+        "Image":"wampler-terraform.png"
+    },
+    {
+        "Brand":"TC Electronic",
+        "Name":"Plethora X5",
+        "Width":11.81,
+        "Height":4.61,
+        "Image":"tcelectronic-plethorax5.png"
+    },
+    {
+        "Brand":"Samtone",
+        "Name":"Dyno-D",
+        "Width":2.36,
+        "Height":4.33,
+        "Image":"samtone-dynod.png"
+    },
+    {
+        "Brand":"Samtone",
+        "Name":"Makkina Overdrive",
+        "Width":2.36,
+        "Height":4.33,
+        "Image":"samtone-makkina.png"
     }
 ]

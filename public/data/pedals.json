@@ -10455,5 +10455,89 @@
         "Width":2.75,
         "Height":7.28,
         "Image":"fire-volume.png"
+    },
+    {
+        "Brand":"BOSS",
+        "Name":"GT-1",
+        "Width":12.01,
+        "Height":5.98,
+        "Image":"boss-gt1.png"
+    },
+    {
+        "Brand":"Aura Amps",
+        "Name":"Crunch Master",
+        "Width":5.51,
+        "Height":3.74,
+        "Image":"auraamps-crunchmaster.png"
+    },
+    {
+        "Brand":"Amb Pedals",
+        "Name":"Alef Bronze",
+        "Width":3.86,
+        "Height":5.04,
+        "Image":"amb-alefbronze.png"
+    },
+    {
+        "Brand":"Amb Pedals",
+        "Name":"Alef Prata",
+        "Width":3.86,
+        "Height":5.04,
+        "Image":"amb-alefprata.png"
+    },
+    {
+        "Brand":"Amb Pedals",
+        "Name":"Alef Ouro",
+        "Width":3.86,
+        "Height":5.04,
+        "Image":"amb-alefouro.png"
+    },
+    {
+        "Brand":"Velouria Fx",
+        "Name":"Black Hole Sun Compressor",
+        "Width":2.56,
+        "Height":4.72,
+        "Image":"velouria-blackholesun.png"
+    },
+    {
+        "Brand":"Analog Fx",
+        "Name":"Booster",
+        "Width":2.48,
+        "Height":2.64,
+        "Image":"analogfx-booster.png"
+    },
+    {
+        "Brand":"Analog Fx",
+        "Name":"Fuzzy",
+        "Width":2.48,
+        "Height":2.64,
+        "Image":"analogfx-fuzzy.png"
+    },
+    {
+        "Brand":"Analog Fx",
+        "Name":"Automatic Wah",
+        "Width":2.95,
+        "Height":4.72,
+        "Image":"analogfx-automaticwah.png"
+    },
+    {
+        "Brand":"Analog Fx",
+        "Name":"Germanium Fuzz",
+        "Width":2.95,
+        "Height":4.72,
+        "Image":"analogfx-germaniumfuzz.png"
+    },
+    {
+        "Brand":"Analog Fx",
+        "Name":"Iron Core Overdrive",
+        "Width":2.95,
+        "Height":4.72,
+        "Image":"analogfx-ironcore.png"
+    },
+    {
+        "Brand":"Krozz Devices",
+        "Name":"Krakenheart",
+        "Width":2.95,
+        "Height":4.72,
+        "Image":"krozz-krakenheart.png"
     }
 ]

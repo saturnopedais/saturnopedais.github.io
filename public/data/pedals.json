@@ -10448,5 +10448,12 @@
         "Width":2.36,
         "Height":4.33,
         "Image":"samtone-makkina.png"
+    },
+    {
+        "Brand":"Fire Custom Shop",
+        "Name":"Fire Volume",
+        "Width":2.75,
+        "Height":7.28,
+        "Image":"fire-volume.png"
     }
 ]

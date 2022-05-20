@@ -30973,5 +30973,12 @@
         "Width": 2.95,
         "Height": 4.72,
         "Image": "krozz-krakenheart.png"
+    },
+    {
+        "Brand": "Aura Amps",
+        "Name": "Viking",
+        "Width": 2.55,
+        "Height": 4.72,
+        "Image": "auraamps-viking.png"
     }
 ]

@@ -30980,5 +30980,68 @@
         "Width": 2.55,
         "Height": 4.72,
         "Image": "auraamps-viking.png"
+    },
+    {
+        "Brand": "Emerson",
+        "Name": "POMEROY",
+        "Width": 5.23,
+        "Height": 4.44,
+        "Image": "emerson-pomeroy.png"
+    },
+    {
+        "Brand": "Fiftysix Inc.",
+        "Name": "Tubestation XTC",
+        "Width": 5.51,
+        "Height": 7.87,
+        "Image": "fiftysix-tubestationxtc.png"
+    },
+    {
+        "Brand": "Fiftysix Inc.",
+        "Name": "Tubestation 5150",
+        "Width": 5.51,
+        "Height": 7.87,
+        "Image": "fiftysix-tubestation5150.png"
+    },
+    {
+        "Brand": "Fiftysix Inc.",
+        "Name": "Tubestation Recto",
+        "Width": 5.51,
+        "Height": 7.87,
+        "Image": "fiftysix-tubestationrecto.png"
+    },
+    {
+        "Brand": "King Pedals",
+        "Name": "Genesis Pro",
+        "Width": 2.95,
+        "Height": 5.11,
+        "Image": "kingpedals-genesispro.png"
+    },
+    {
+        "Brand": "NIG",
+        "Name": "Shred PRO",
+        "Width": 5.55,
+        "Height": 4.33,
+        "Image": "nig-shredpro.png"
+    },
+    {
+        "Brand": "Top Tone",
+        "Name": "DG 1",
+        "Width": 2.59,
+        "Height": 4.80,
+        "Image": "toptone-dg1.png"
+    },
+    {
+        "Brand": "EFR Eletronics",
+        "Name": "Little Wah",
+        "Width": 2.44,
+        "Height": 4.72,
+        "Image": "efreletronics-littlewah.png"
+    },
+    {
+        "Brand": "Ammoon Pedals",
+        "Name": "Pockverb",
+        "Width": 2.55,
+        "Height": 4.52,
+        "Image": "ammoonpedals-pockverb.png"
     }
 ]

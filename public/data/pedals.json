@@ -21468,6 +21468,20 @@
     "Height": 0.98,
     "Image": "saturno-oxygen-buffer.png"
   },
+  {
+    "Brand": "Saturno Pedais",
+    "Name": "Saturno Spacewalk Reverb",
+    "Width": 4.33,
+    "Height": 3.54,
+    "Image": "saturno-spacewalk.png"
+  },
+  {
+    "Brand": "Saturno Pedais",
+    "Name": "Saturno Timespace Delay",
+    "Width": 4.33,
+    "Height": 3.54,
+    "Image": "saturno-timespace.png"
+  },
 
   {
     "Brand": "Saturnworks",

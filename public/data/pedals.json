@@ -15078,6 +15078,13 @@
     "Image": "kemper-stage.png"
   },
   {
+    "Brand": "Kemper",
+    "Name": "Profiler Player",
+    "Width": 5.71,
+    "Height": 6.53,
+    "Image": "kemper-player.png"
+  },
+  {
     "Brand": "Kingsley",
     "Name": "Bard",
     "Width": 3.875,

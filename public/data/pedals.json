@@ -34762,6 +34762,13 @@
   },
   {
     "Brand": "Saturno Pedais",
+    "Name": "Saturno Spacewalk Reverb (Branco)",
+    "Width": 4.33,
+    "Height": 3.54,
+    "Image": "saturno-spacewalk-white.png"
+  },
+  {
+    "Brand": "Saturno Pedais",
     "Name": "Supernova MkII",
     "Width": 11.73,
     "Height": 2.36,
@@ -34780,6 +34787,13 @@
     "Width": 4.33,
     "Height": 3.54,
     "Image": "saturno-timespace.png"
+  },
+  {
+    "Brand": "Saturno Pedais",
+    "Name": "Saturno TimeSpace Delay (Branco)",
+    "Width": 4.33,
+    "Height": 3.54,
+    "Image": "saturno-timespace-white.png"
   },
   {
     "Brand": "Saturno Pedais",

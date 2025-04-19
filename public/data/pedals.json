@@ -41471,21 +41471,14 @@
     "Name": "Dream Machine Delay V2",
     "Width": 2.69,
     "Height": 4.9,
-    "Image": "vtr-dream-machine-v2.png"
+    "Image": "vtr-dreammachine-v2.png"
   },
   {
-    "Brand": "VTR",
-    "Name": "Dream Machine v1",
+    "Brand": "VTR Effects",
+    "Name": "Dream Machine Delay V1",
     "Width": 2.56,
     "Height": 4.84,
     "Image": "vtr-dreammachine-v1.png"
-  },
-  {
-    "Brand": "VTR",
-    "Name": "Dream Machine v2",
-    "Width": 2.76,
-    "Height": 4.84,
-    "Image": "vtr-dreammachine-v2.png"
   },
   {
     "Brand": "VTR Effects",
@@ -41539,8 +41532,8 @@
   {
     "Brand": "VTR Effects",
     "Name": "Kailani Reverb",
-    "Width": 4.72,
-    "Height": 3.14,
+    "Width": 3.14,
+    "Height": 4.72,
     "Image": "vtr-kailani.png"
   },
   {

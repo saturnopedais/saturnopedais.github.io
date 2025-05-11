@@ -30275,6 +30275,13 @@
   },
   {
     "Brand": "NIG",
+    "Name": "Shred Pro",
+    "Width": 4.33,
+    "Height": 5.51,
+    "Image": "nig-shred-pro.png"
+  },
+  {
+    "Brand": "NIG",
     "Name": "Fuzztortion",
     "Width": 2.91,
     "Height": 4.13,
@@ -30301,8 +30308,34 @@
     "Height": 5.51,
     "Image": "nig-multi-fuzz-vintage-distortion.png"
   },
-
-
+  {
+    "Brand": "NIG",
+    "Name": "X-treme Distortion",
+    "Width": 4.33,
+    "Height": 5.51,
+    "Image": "nig-x-treme-distortion.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "ASDC Dual Chorus",
+    "Width": 4.33,
+    "Height": 5.51,
+    "Image": "nig-asdc-dual-chorus.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Dual Drive",
+    "Width": 4.33,
+    "Height": 5.51,
+    "Image": "nig-dual-drive.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Phaser & Flanger",
+    "Width": 4.33,
+    "Height": 5.51,
+    "Image": "nig-phaser-and-flanger.png"
+  },
   {
     "Brand": "Ninjafox",
     "Name": "Sidekick NES Retro",

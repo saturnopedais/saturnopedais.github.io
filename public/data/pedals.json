@@ -17045,6 +17045,118 @@
     "Image": "fuzzrocious-tyrannochorus.png"
   },
   {
+    "Brand": "Fuhrmann",
+    "Name": "Analog Delay",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-analog-delay.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Bass Drive",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-bass-drive.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Boost",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-boost.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Bass Compressor",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-bass-compressor.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Bass+ Preamp",
+    "Width": 4.13,
+    "Height": 4.33,
+    "Image": "fuhrmann-bass-plus-preamp.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Clean",
+    "Width": 4.13,
+    "Height": 4.33,
+    "Image": "fuhrmann-clean.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Compressor",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-compressor.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Chorus Cycle",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-chorus-cycle.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Echoes",
+    "Width": 4.13,
+    "Height": 4.33,
+    "Image": "fuhrmann-echoes.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Myth Of Tones",
+    "Width": 4.13,
+    "Height": 4.33,
+    "Image": "fuhrmann-myth-of-tones.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Phaser",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-phaser.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Rocher Punch Box",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-rocker(punch-box).png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Punch Box (Black Edition)",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-punch-box-black.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Reverb RV-1",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-rv-1.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Slapper",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-slapper.png"
+  },
+  {
+    "Brand": "Fuhrmann",
+    "Name": "Tube Drive",
+    "Width": 2.75,
+    "Height": 4.33,
+    "Image": "fuhrmann-tube-drive.png"
+  },
+  {
     "Brand": "G-LAB",
     "Name": "Wowee-Wah",
     "Width": 3.89,
@@ -22792,13 +22904,6 @@
   },
   {
     "Brand": "Keeley",
-    "Name": "Caverns V2 (Waves)",
-    "Width": 3.7,
-    "Height": 4.9,
-    "Image": "keeley-caverns-v2-waves.png"
-  },
-  {
-    "Brand": "Keeley",
     "Name": "Caverns V2",
     "Width": 3.7,
     "Height": 4.9,
@@ -24245,6 +24350,13 @@
     "Width": 3.15,
     "Height": 4.91,
     "Image": "krozz-airborn.png"
+  },
+  {
+    "Brand": "Krozz Devices",
+    "Name": "HammerHead",
+    "Width": 3.15,
+    "Height": 4.91,
+    "Image": "krozz-hammerhead.png"
   },
   {
     "Brand": "Krozz Devices",
@@ -30132,6 +30244,48 @@
     "Width": 11.42,
     "Height": 7.8,
     "Image": "neuraldsp-quadcortex.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Black Booster",
+    "Width": 2.36,
+    "Height": 2.52,
+    "Image": "nig-black-booster.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Easy Drive'n Booster",
+    "Width": 2.36,
+    "Height": 2.52,
+    "Image": "nig-easy-drive-n-booster.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Compressor",
+    "Width": 2.36,
+    "Height": 2.52,
+    "Image": "nig-compressor.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Fuzztortion",
+    "Width": 2.36,
+    "Height": 2.52,
+    "Image": "nig-fuzztortion.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Octa Fuzz",
+    "Width": 2.36,
+    "Height": 2.52,
+    "Image": "nig-octa-fuzz.png"
+  },
+  {
+    "Brand": "NIG",
+    "Name": "Hot Drive",
+    "Width": 2.36,
+    "Height": 2.52,
+    "Image": "nig-hot-drive.png"
   },
   {
     "Brand": "Ninjafox",
@@ -41488,18 +41642,11 @@
     "Image": "vtr-helios-overdrive-v2.png"
   },
   {
-    "Brand": "VTR",
+    "Brand": "VTR Effects",
     "Name": "Helios Overdrive v1",
     "Width": 2.76,
     "Height": 4.72,
     "Image": "vtr-helios-v1.png"
-  },
-  {
-    "Brand": "VTR",
-    "Name": "Helios Overdrive v2",
-    "Width": 2.76,
-    "Height": 4.84,
-    "Image": "vtr-helios-v2.png"
   },
   {
     "Brand": "VTR Effects",
@@ -41509,18 +41656,25 @@
     "Image": "vtr-indigo-reverb-v2.png"
   },
   {
-    "Brand": "VTR",
+    "Brand": "VTR Effects",
     "Name": "Indigo Reverb v1",
     "Width": 2.56,
     "Height": 4.84,
     "Image": "vtr-indigo-v1.png"
   },
   {
-    "Brand": "VTR",
-    "Name": "Indigo Reverb v2",
-    "Width": 2.76,
-    "Height": 4.84,
-    "Image": "vtr-indigo-v2.png"
+    "Brand": "VTR Effects",
+    "Name": "Loki Modulation",
+    "Width": 3.14,
+    "Height": 4.72,
+    "Image": "vtr-loki.png"
+  },
+  {
+    "Brand": "VTR Effects",
+    "Name": "Narciso Delay",
+    "Width": 3.14,
+    "Height": 4.72,
+    "Image": "vtr-narciso.png"
   },
   {
     "Brand": "VTR Effects",

@@ -30247,6 +30247,13 @@
   },
   {
     "Brand": "NIG",
+    "Name": "Analog Modula Delay",
+    "Width": 2.91,
+    "Height": 4.13,
+    "Image": "nig-analog-modula-delay.png"
+  },
+  {
+    "Brand": "NIG",
     "Name": "Black Booster",
     "Width": 2.91,
     "Height": 4.13,
@@ -30287,6 +30294,15 @@
     "Height": 4.13,
     "Image": "nig-hot-drive.png"
   },
+  {
+    "Brand": "NIG",
+    "Name": "Multi Fuzz e Vintage Distortion",
+    "Width": 4.33,
+    "Height": 5.51,
+    "Image": "nig-multi-fuzz-vintage-distortion.png"
+  },
+
+
   {
     "Brand": "Ninjafox",
     "Name": "Sidekick NES Retro",

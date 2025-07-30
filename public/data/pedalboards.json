@@ -1601,5 +1601,138 @@
     "Width": 14.5,
     "Height": 6.4,
     "Image": "voodoo-tiny.png"
+  },
+  {
+    "Brand": "Aclam",
+    "Name": "Smart Track S2 (Free)",
+    "Width": 23.2,
+    "Height": 11.8,
+    "Image": "aclam-l2-free.png"
+  },
+  {
+    "Brand": "Aclam",
+    "Name": "Smart Track S2 (Top)",
+    "Width": 23.2,
+    "Height": 11.8,
+    "Image": "aclam-s2-top.png"
+  },
+  {
+    "Brand": "Friedman",
+    "Name": "1317",
+    "Width": 17,
+    "Height": 13,
+    "Image": "friedman-1317.png"
+  },
+  {
+    "Brand": "Friedman",
+    "Name": "1520",
+    "Width": 20,
+    "Height": 15,
+    "Image": "friedman-1520.png"
+  },
+  {
+    "Brand": "Friedman",
+    "Name": "1524",
+    "Width": 24,
+    "Height": 15,
+    "Image": "friedman-1524.png"
+  },
+  {
+    "Brand": "Friedman",
+    "Name": "1529",
+    "Width": 29,
+    "Height": 15,
+    "Image": "friedman-1529.png"
+  },
+  {
+    "Brand": "Friedman",
+    "Name": "Riser (13)",
+    "Width": 4,
+    "Height": 6,
+    "Image": "friedman-riser-1317.png"
+  },
+  {
+    "Brand": "Friedman",
+    "Name": "Riser (15)",
+    "Width": 4,
+    "Height": 7,
+    "Image": "friedman-riser-15.png"
+  },
+  {
+    "Brand": "Harley Benton",
+    "Name": "SpaceShip 50C",
+    "Width": 19.69,
+    "Height": 5.32,
+    "Image": "harley-benton-spaceship-50C.png"
+  },
+  {
+    "Brand": "Harley Benton",
+    "Name": "SpaceShip 50M",
+    "Width": 19.88,
+    "Height": 6.89,
+    "Image": "harvey-benton-spaceship-50m.png"
+  },
+  {
+    "Brand": "Harley Benton",
+    "Name": "SpaceShip 60",
+    "Width": 23.82,
+    "Height": 12.01,
+    "Image": "harley-benton-spaceship-60.png"
+  },
+  {
+    "Brand": "Harley Benton",
+    "Name": "SpaceShip 60XL",
+    "Width": 23.62,
+    "Height": 15.35,
+    "Image": "harley-benton-spaceship-60XL.png"
+  },
+  {
+    "Brand": "Harley Benton",
+    "Name": "SpaceShip 80",
+    "Width": 31.5,
+    "Height": 15.35,
+    "Image": "harley-benton-spaceship-80.png"
+  },
+  {
+    "Brand": "Muzbay",
+    "Name": "Sputnik 25",
+    "Width": 9.82,
+    "Height": 5.12,
+    "Image": "muzbay-sputnik-25.png"
+  },
+  {
+    "Brand": "Muzbay",
+    "Name": "Sputnik 35",
+    "Width": 13.8,
+    "Height": 5.12,
+    "Image": "muzbay-sputnik-35.png"
+  },
+  {
+    "Brand": "Muzbay",
+    "Name": "Sputnik 50",
+    "Width": 19.7,
+    "Height": 5.12,
+    "Image": "muzbay-sputnik-50.png"
+  },
+  {
+    "Brand": "Rockboard by Warwick",
+    "Name": "Duo 2.3",
+    "Width": 28.42,
+    "Height": 5.75,
+    "Image": "rockboard-duo-23.png"
+  },
+  {
+    "Brand": "Rockboard by Warwick",
+    "Name": "Quad 4.4",
+    "Width": 28.42,
+    "Height": 13,
+    "Image": "rockboard-quad-44.png"
+  },
+  {
+    "Brand": "Rolling Pedalboards",
+    "Name": "Stage 1 Deluxe",
+    "Width": 22,
+    "Height": 14.5,
+    "Image": "rolling-stage-1-deluxe.png"
   }
 ]
